@@ -3,20 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Static Page</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+    Basketball Tournament
+         .pink {
+            color: #CB5996;
+            font-weight: bold;
+        }
+    </head>
 <body>
     <h1>Platres 3on3 Basketball Tournament </h1>
     <p>
-In light of the campaign against Breast Cancer, in collaboration with <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>, for the second year in a row, an all-day basketball celebration named Platres 3on3 Basketball Tournament is being organized. The event will take place on June 2, 2024, at the sports facilities of Upper Platres.
+ Όταν η αγάπη για τον συνάνθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή!
+    
+ Έλα μαζί μας στις 2 Ιουνίου από τις 9πμ μέχρι τις 6μμ. να ενδυναμώσουμε τις αξίες του αλτρουισμού, της ανιδιοτέλειας και της φιλανθρωπίας μέσα από τη συμμετοχή σου στο Platres 3on3 Basketball Tournament το οποίο θα διεξαχθεί                στις αθλητικές εγκαταστάσεις των Πάνω Πλατρών.
+  
+Με αφορμή την εκστρατεία που γίνεται κατά τον Καρκίνο του Μαστού, διοργανώνεται φέτος, για δεύτερη φορά ένα 3on3 τουρνούα καλαθόσφαιρας στο γήπεδο των Πάνω Πλατρων , χωμένο κυριολεκτικά μέσα στα πεύκα!
 
-Firstly, we would like to inform you that this particular initiative is spearheaded by a small team of young volunteers who, with enthusiasm, unwavering zeal, and energy, embarked on a selfless effort to contribute in their own way to the ongoing fight championed by <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span> over the years. The team's primary objective is to bring people together regardless of age, from any part of the island, providing them with the opportunity to compete or even witness a beautiful basketball spectacle, experiencing the unique atmosphere of this tournament amidst the idyllic landscape of Upper Platres.
-Registration will be open from April 29th to May 29th, 2024.
-
-The admission fee of Є40 covers registration for the Platres 3on3 Basketball Tournament, a double-faced basketball jersey, awards for the first-place winners of each division, and proceeds that will be donated to <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span>.
-
-For any inquiries, assistance, or clarification, please feel free to contact us at:
+Απώτερος σκοπός η ενίσχυση του <span class="pink">Europa Donna Cyprus</span> και συγκεκριμένα του “Race for the Cure” το οποίο αποτελεί το μεγαλύτερο αθλητικό γεγονός ενάντια στον Καρκίνο του Μαστού σε ολόκληρη την Ευρώπη!
+   
+Η πρωτοβουλία αυτή ηγείται από μικρή ομάδα νέων εθελοντών, οι οποίοι, με ενθουσιασμό, ακλόνητο ζήλο και ενέργεια, ξεκίνησαν μια αφιλοκερδή προσπάθεια για να συνεισφέρουν με τον δικό τους τρόπο στην συνεχή μάχη που έχει              
+αναλάβει <span class="pink">Europa Donna Cyprus</span> όλα αυτά τα χρόνια. Ο κύριος στόχος της ομάδας είναι να φέρει τους ανθρώπους μαζί, ανεξαρτήτως ηλικίας, από οποιοδήποτε μέρος του νησιού, παρέχοντας τους την ευκαιρία να                ανταγωνιστούν ή ακόμα και να παρακολουθήσουν ένα όμορφο μπασκετικό θέαμα, να ζήσουν την μοναδική ατμόσφαιρα αυτού του τουρνουά στον ειδυλλιακό τοπίο των Άνω Πλατρών.
+    
+Οι εγγραφές θα είναι ανοικτές από 29 Απριλίου έως 29 Μαΐου 2024.
+    
+Το εισιτήριο εισόδου των €40 καλύπτει την εγγραφή στο τουρνουά μπάσκετ Platres 3on3, ένα διπλής όψης μπασκετική φανέλα, βραβεία για τους πρώτους νικητές κάθε κατηγορίας και τα έσοδα που θα δοθούν στην <span class="pink">Europa Donna Cyprus</span>.
+    
+Για οποιεσδήποτε ερωτήσεις, βοήθεια ή διευκρινίσεις, μη διστάσετε να επικοινωνήσετε μαζί μας στο:
     </p>
     <p>
         Email : <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a><br>
