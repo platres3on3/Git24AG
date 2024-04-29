@@ -9,7 +9,7 @@
     <h1>Platres 3on3 Basketball Tournament </h1>
     <ul>
     <li <h5>Ημερομηνία : 2 Ιουνίου 2024</h5></li> 
-    <li>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες</li>
+    <li>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
 </ul>
     <p>
 Με αφορμή την εκστρατεία που γίνεται κατά τον Καρκίνο του Μαστού, διοργανώνεται φέτος, για δεύτερη φορά ένα 3on3 τουρνούα καλαθόσφαιρας στο γήπεδο των Πάνω Πλατρων. Απώτερος σκοπός η ενίσχυση του <span style="color: #CB5996; font-weight: bold;">Europa Donna Cyprus</span> και συγκεκριμένα του “Race for the Cure” το οποίο αποτελεί το μεγαλύτερο αθλητικό γεγονός ενάντια στον Καρκίνο του Μαστού σε ολόκληρη την Ευρώπη!
