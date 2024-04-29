@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     Basketball Tournament
-</head>
-       
+</head>    
+    <body style="background-color: red;">
 <body>
     <h1>Platres 3on3 Basketball Tournament </h1>
     <ul>
-    <li <h5>Ημερομηνία : 2 Ιουνίου 2024</h5></li> 
+    <li <h5>Ημερομηνία : 2 Ιουνίου 2024.</h5></li> 
     <li>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
 </ul>
     <p>
@@ -28,7 +28,7 @@
     </p>
     <p>
         Email : <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a><br>
-        Phone : 99909580 / 99342037 <br>
+        Phone : 99342037 / 99909580 <br>
         Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a> 
     </p>
 </body>
