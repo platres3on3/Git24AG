@@ -3,34 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Όταν η αγάπη για το συνάθρωπο και την καλαθόσφαιρα γίνονται έμπνευση για μια μεγάλη γιορτή.
-     <p>
-</head>    
-    <body style="background-color: red;">
+    <title>Platres 3on3 Basketball Tournament</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        #language-switcher {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+        }
+        #language-switcher img {
+            width: 30px;
+            height: auto;
+            margin-left: 5px;
+            cursor: pointer;
+        }
+        .content {
+            margin: 20px;
+            color: #333;
+        }
+    </style>
+</head>
 <body>
-    <h1>Platres 3on3 Basketball Tournament </h1>
-    <ul>
-    <li <h5>Ημερομηνία : 2 Ιουνίου 2024.</h5></li> 
-    <li>Τοποθεσία : <a href="https://platresarena.com/">Platres Arena</a>, Πλάτρες.</li>
-</ul>
-    <p>
-     
-Και φέτος, για δεύτερη συνεχή χρονιά, το τουρνουά μπάσκετ <b>Platres 3on3<b> διοργανώνεται στο γήπεδο των Πάνω Πλατρών, με κύριο σκοπό την υποστήριξη του <b>Europa Donna Cyprus<b> και των <b>Μικρών Ηρώων<b>, δύο μη κερδοσκοπικών οργανισμών που παρέχουν βοήθεια και στήριξη σε μικρά παιδιά και μεγάλους που αγωνίζονται δυστυχώς με τον καρκίνο.
+    <div id="language-switcher">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2560px-Flag_of_Greece.svg.png" alt="Greek Flag" onclick="switchLanguage('greek')">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" alt="UK Flag" onclick="switchLanguage('english')">
+    </div>
 
-Η πρωτοβουλία αυτή ηγείται από μικρή ομάδα νέων εθελοντών, οι οποίοι, με ενθουσιασμό, αφοσίωση και δυναμισμό, ξεκίνησαν αυτή την άοκνη προσπάθεια. Στόχος τους είναι να αποτελέσουν έναν από τους πυλώνες υποστήριξης για τους συναθρώπους μας που δίνουν μάχη με τον καρκίνο καθημερινά και ταυτόχρονα να αναδείξουν ότι οι νέοι μπορούν να αποτελέσουν στηλοβάτες στην μακροχρόνια και αλτρουιστική προσπάθεια αυτών των οργανισμών.
-    
-<h5>Οι εγγραφές θα είναι ανοικτές από 1 Μαίου έως 29 Μαΐου 2024 μέσω του συνδέσμου <a href="https://forms.office.com/r/NkmdV3gJKs?origin=lprLink">εδώ</a>.</h5>
-    
-<h5>Το κόστος εγγραφής μια ομάδας ανέρχεται στα €140 (4 άτομα) το οποίο θα καλύπτει :</h5>
-<ul>
-    <li>την εγγραφή στο Platres 3on3 Basketball Tournament.</li> 
-    <li>διπλής όψης καλαθοσφαιρικής στολής.</li>
-</ul>  
-Για οποιεσδήποτε ερωτήσεις, αιτήματα για βοήθεια ή ανάγκη για διευκρινίσεις, παρακαλούμε επικοινωνήστε μαζί μας μέσω των παρακάτω στοιχείων επικοινωνίας:
-    <p>
-        Email : <a href="mailto:platres3on3@outlook.com">platres3on3@outlook.com</a><br>
-        Phone : 99342037 / 99909580 <br>
-        Instagram : <a href="https://www.instagram.com/platres3on3/?igsh=ZTFxa2R1MnJ0NGlk&utm_source=qr">platres3on3</a> 
-    </p>
+    <div class="content" id="english-content" style="display: none;">
+        <!-- English content here -->
+    </div>
+
+    <div class="content" id="greek-content">
+        <!-- Greek content here -->
+    </div>
+
+    <script>
+        function switchLanguage(language) {
+            var englishContent = document.getElementById('english-content');
+            var greekContent = document.getElementById('greek-content');
+
+            if (language === 'greek') {
+                englishContent.style.display = 'none';
+                greekContent.style.display = 'block';
+            } else {
+                englishContent.style.display = 'block';
+                greekContent.style.display = 'none';
+            }
+        }
+    </script>
 </body>
 </html>
